@@ -1,0 +1,4 @@
+ul.menu{list-style:none;display:flex;gap:20px;padding:0;}
+ul.menu li a{display:block;padding:8px;text-decoration:none;}
+ul.menu li a:hover{background:#ddd;}
+ul ul{list-style:square;}
